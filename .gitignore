@@ -3,3 +3,15 @@
 ################################################################################
 
 /TabbedPage/.vs/TabbedPageDemo/v14
+/TabbedPage/packages
+/TabbedPage/TabbedPageDemo/TabbedPageDemo/bin/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo/obj/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/bin/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.Android/obj/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.iOS/obj/iPhoneSimulator/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.UWP/bin/x86/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.UWP/obj/x86/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.WinPhone/Bin/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.WinPhone/obj/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.WinPhone81/bin/x86/Debug
+/TabbedPage/TabbedPageDemo/TabbedPageDemo.WinPhone81/obj/x86/Debug
